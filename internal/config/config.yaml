@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+services:
+  user: http://localhost:9001
+  order: http://localhost:9002
